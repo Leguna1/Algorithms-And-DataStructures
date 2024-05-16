@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfmYpuF9ZoHEQnGpy28TEvDkSoltN9g7GLcV/d9iGysnHCHpn0MwyGzu4nIB68KdMx8X+4+fberf3VSJITt7mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kal-E\\OneDrive\\Skrivbord\\CSharp\\212-Collections\\Algorithms-And-DataStructures\\P1_2_Collections\\P1_2_Collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kal-E\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Kal-E\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Kal-E\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Kal-E\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

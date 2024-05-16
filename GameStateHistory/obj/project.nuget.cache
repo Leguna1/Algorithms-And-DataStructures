@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kHVB+co2GpPLthBoD1FfAiBgy+3G3S6WJy2GFJi+KmW77hrW5a1XlL42wS2xpSpfQGOGrVqVyott/S8T4ys5cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kal-E\\OneDrive\\Skrivbord\\CSharp\\212-Collections\\Algorithms-And-DataStructures\\GameStateHistory\\GameStateHistory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kal-E\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Kal-E\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Kal-E\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Kal-E\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
