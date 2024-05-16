@@ -100,3 +100,4 @@ C:\Users\Kal-E\OneDrive\Skrivbord\CSharp\212-Collections\Algorithms-And-DataStru
 C:\Users\Kal-E\OneDrive\Skrivbord\CSharp\212-Collections\Algorithms-And-DataStructures\TurboCollections.Test\obj\Debug\net7.0\TurboCollections.Test.pdb
 C:\Users\Kal-E\OneDrive\Skrivbord\CSharp\212-Collections\Algorithms-And-DataStructures\TurboCollections.Test\obj\Debug\net7.0\TurboCollections.Test.genruntimeconfig.cache
 C:\Users\Kal-E\OneDrive\Skrivbord\CSharp\212-Collections\Algorithms-And-DataStructures\TurboCollections.Test\obj\Debug\net7.0\ref\TurboCollections.Test.dll
+C:\Users\Kal-E\OneDrive\Skrivbord\CSharp\212-Collections\Algorithms-And-DataStructures\TurboCollections.Test\obj\Debug\net7.0\TurboCollections.Test.sourcelink.json

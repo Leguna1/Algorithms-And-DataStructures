@@ -18,7 +18,6 @@ public class TurboSearch
 
         return -1;
     }
-
     public static int BinarySearch<T>(IList<T> list, T value)
     {
         int lowerBound = 0;
