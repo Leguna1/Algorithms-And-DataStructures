@@ -1,33 +1,18 @@
 ﻿namespace TurboCollections;
 
-public class TurboBinarySearchTree<T>
+public class Node
 {
-    private static T[] nodes;
+    public int Data;
+    public Node Left;
+    public Node Right;
 
-    public TurboBinarySearchTree(int size)
+    public Node(int data, Node left, Node right)
     {
-        nodes = new T[size];
-    }
-
-    public int GetLeftChild(int n)
-    {
-        return n * 2 + 1;
-    }
-
-    public int GetRightChild(int n)
-    {
-        return n * 2 + 2;
-    }
-
-    public T GetValue(int n)
-    {
-        return nodes[n];
-    }
-
-    public void SetValue(int n, T value)
-    {
-        nodes[n] = value;
+        Data = data;
+        Left = null!;
+        Right = null!;
     }
 }
+
 
 

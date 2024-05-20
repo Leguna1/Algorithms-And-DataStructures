@@ -3,12 +3,12 @@
 [TestFixture]
 public class BinarySearchTreeTest
 {
-    private TurboBinarySearchTree<int> tree;
+    private TurboBinaryTree<int> tree;
 
     [SetUp]
     public void Setup()
     {
-        tree = new TurboBinarySearchTree<int>(10);
+        tree = new TurboBinaryTree<int>(10);
     }
     
     [Test]
