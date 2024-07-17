@@ -1,18 +1,60 @@
-﻿namespace TurboCollections;
+﻿using Microsoft.VisualBasic.FileIO;
 
-public class Node
+namespace TurboCollections
 {
-    public int Data;
-    public Node Left;
-    public Node Right;
-
-    public Node(int data, Node left, Node right)
+    public class Node
     {
-        Data = data;
-        Left = null!;
-        Right = null!;
+        public int Data;
+        public Node Left;
+        public Node Right;
+
+        public Node(int data)
+        {
+            Data = data;
+            Left = null;
+            Right = null;
+        }
+    }
+
+    public class BinarySearchTree
+    {
+        public Node Root;
+
+        public BinarySearchTree()
+        {
+            Root = null;
+        }
+
+        public Node Search(Node root, int data)
+        {
+            if (root == null)
+            {
+                return null;
+            }
+
+            if (root.Data == data)
+            {
+                return root;
+            }
+            else
+            {
+                Node current = root;
+
+                while (current !=null)
+                {
+                    if (data > current.Data)
+                    {
+                        
+                    }
+                }
+            }
+            
+            return null;
+        }
+
+        public Node Insert()
+        {
+            return null;
+        }
     }
 }
-
-
-
